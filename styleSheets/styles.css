@@ -55,6 +55,12 @@ p {
     background: #333;
     padding: 13px 20px;
     border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #333;
+    color: #f7c08a;
 }
 
 
